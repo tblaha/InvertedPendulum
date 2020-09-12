@@ -20,8 +20,8 @@ gval  = 9.81;  % gravity, m/s^2
 animspeed = 0.5; % 1: time-true
 
 % write output gif?
-gifoutput = 1;  % 1: yes, 0: no
-gifname = "TripleInverted_Uncontrolled.gif";
+gifoutput = 0;  % 1: yes, 0: no
+gifname = "TripleInverted_Sidestep.gif";
 
 
 
