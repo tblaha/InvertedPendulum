@@ -17,7 +17,7 @@
 ## Examples:
 
 - Uncontrolled
-![](TripleInverted_Uncontrolled.gif)
+![](TripleInverted_Uncontrolled2.gif)
 
 - Sidestep
 ![](TripleInverted_Sidestep.gif)
